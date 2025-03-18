@@ -1,0 +1,9 @@
+{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+{{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
+{{- $latestPages := first 10 $sortedPages -}}
+
+<aside data-pagefind-ignore="all">
+    {{- range $latestPages -}}
+        {{- partial "display-page-box-recently-changed.html" . -}}
+    {{- end -}}
+</aside>
