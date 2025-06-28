@@ -1,6 +1,6 @@
 {{- partial "editButton-list.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- .Title | safeHTML -}}</h1>
+<h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
 <hr>
 
 {{- if .Params.pageThumbnailFile -}}
@@ -17,9 +17,9 @@
 {{- range $reviews -}}
   {{- $page := . -}} <!-- Store the current page object in a variable -->
   {{- with $page.Params.Page -}}
-    {{- $contributors := $page.Params.contributors -}}
-    {{- if in $contributors $currentTitle -}}
-      {{- partial "display-page-box.html" $page -}}
+    {{- $revCont := $page.Params.contributors -}}
+    {{- if in $revCont $currentTitle -}}
+      {{- partial "display-review-box.html" $page -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
