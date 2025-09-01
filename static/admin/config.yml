@@ -23,14 +23,14 @@ collections:
     folder: "content/wiki/"
     preview_path: "wiki/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Start Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startDate", widget: "string", required: false}
       - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
@@ -74,6 +74,16 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Market Sales (Price|Date|citationLink) ($4.99|2025-12-31|https://web.archive.org/ebay.com)"
+        name: "sales"
+        widget: "list"
+        required: false
+        field: {label: Sale | Desc, name: sale, widget: string}
+      - label: "Transcriptions (List Transcription Article Titles)"
+        name: "transcriptions"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
       - label: "Also Known As"
         name: "alsoKnownAs"
         widget: "list"
@@ -131,6 +141,7 @@ collections:
           - { label: "News Footage", value: "News Footage" }
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
+          - { label: "Restaurants/FECs", value: "Restaurants/FECs" }
           - { label: "Events", value: "Events" }
           - { label: "Social Media and Websites", value: "Social Media and Websites" }
           - { label: "Characters", value: "Characters" }
@@ -178,14 +189,21 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "transcriptions/{{filename}}/"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcription"]}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcriptions"]}
+      - label: "Contributors (List your Username here!)"
+        name: "contributors"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Username, name: username, widget: string}
 
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
@@ -194,10 +212,10 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "users/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -210,10 +228,10 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "meta/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -224,10 +242,10 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "photos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Filename", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -289,10 +307,10 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "videos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Video Link", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -361,11 +379,11 @@ collections:
     folder: "content/reviews/"
     preview_path: "reviews/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Would You Recommend This?", name: "recommend", widget: "boolean", default: true, required: true}
       - { label: "Review Summary / Header", name: "title", widget: "string" }
@@ -386,11 +404,11 @@ collections:
     folder: "content/news/"
     preview_path: "news/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
