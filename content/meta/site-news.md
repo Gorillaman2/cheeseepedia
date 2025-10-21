@@ -28,6 +28,8 @@ On April 30th, 2025, after discourse surrounding actions taken by Discord, an al
 
 On July 22nd, the entire wiki would have its article formats converted from HTML to Markdown to allow much easier editing. A live Markdown editor would also soon be included on Decap.
 
+On September 6th, the entirety of all articles tagged 'Location' would have their text wiped. This was due to a vast majority of the articles being old, outdated, uncited, and not within standards. Parameters for locations would be mass updated for better accuracy, and the articles would begin to be remade one by one.
+
 ### Changes Timeline
 
 #### 2021
@@ -119,8 +121,11 @@ On July 22nd, the entire wiki would have its article formats converted from HTML
 - **August 10th -** 'cite' shortcode added.
 - **August 11th -** 'Sales' section added for articles to graph out second-hand sales data.
 - **August 14th -** Decap changed to remove 'live preview' and instead integrate the preview into the text-box itself.
-- **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists.
+- **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists. User count drops by 500, article count drops by 1000.
 - **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
+- **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
+- **October 11th-** The site hits 100+ transcription pages.
+- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user.
 
 ### Planned Upcoming Changes
 

@@ -4,7 +4,7 @@ title = "January 2012 Show"
 startDate = "2012-01-01"
 endDate = "0000-00-00"
 pageThumbnailFile = "yiyeZ9uOGZM5QAbMVtA8.avif"
-contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "2607:FB91:1421:196F:71DA:F61C:403:F028", "MultiMonorail"]
+contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "Anonymous", "MultiMonorail"]
 citations = ["http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer (Unused version only)"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
@@ -13,7 +13,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **January 2012** is a compilation show featuring eight reused songs from 1999 - 2011 alongside newly recorded dialogue.
-This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.<sup>(1)</sup> This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
+This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.{{< cite 1 >}} This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
 
 ## Unused Version
 
@@ -94,5 +94,5 @@ After Robert Gotcher was fired as Director of Entertainment, the songs he wrote 
 - The show logo is the footage of 'We Got The Beat' from the {{< wiki-link "May 2011 Show" >}}
 - The video and instrumentals of 'Hip Mouse' and 'Cheese Pizza is Pure Delight', which are from {{< wiki-link "April 1999" >}} and {{< wiki-link "August 1999" >}} respectively, are used as chillouts.
 - The video of 'Is It Love?' and 'Don't Let Your Feet Touch Ground', which are from {{< wiki-link "April 2007 Show" >}} and {{< wiki-link "September 2009 Show" >}} respectively, are used as chillouts with different audio.
-- Chillout - 'Is It Love?' uses the instrumental of 'Dreamin'' from {{< wiki-link "Chuck E Cheese April 2004 Show" >}}
-- 'Disco Chuck' is remade from {{< wiki-link "January 1999" >}}, 'WFW Babysitter' is reused from {{< wiki-link "January 2001 Show" >}}, 'Jack and Jill', Super Jasper - 'Resist The Temptation' and 'Hot Air Balloon' are reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, 'Row Your Boat' is reused from {{< wiki-link "Summertime 2001" >}}, 'Pasqually's Polka Minute' is reused from {{< wiki-link "January 2002 Show" >}}, 'I Don't Wanna Work' is reused from {{< wiki-link "April 2002 Show" >}}, 'Monkey Ninjas - Episode 5' is reused from {{< wiki-link "January 2004 Show" >}}, 'First Impression' is reused from {{< wiki-link "Chuck E Cheese April 2004 Show" >}}, 'I Want My Chuck E. Cheese' is reused from {{< wiki-link "September 2004" >}}, 'Imagine Nation' is reused from {{< wiki-link "April 2010 Show" >}}, 'The Weekend' is reused from {{< wiki-link "May 2011 Show" >}}
+- Chillout - 'Is It Love?' uses the instrumental of 'Dreamin'' from {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}
+- 'Disco Chuck' is remade from {{< wiki-link "January 1999" >}}, 'WFW Babysitter' is reused from {{< wiki-link "January 2001 Show" >}}, 'Jack and Jill', Super Jasper - 'Resist The Temptation' and 'Hot Air Balloon' are reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, 'Row Your Boat' is reused from {{< wiki-link "Summertime 2001" >}}, 'Pasqually's Polka Minute' is reused from {{< wiki-link "January 2002 Show" >}}, 'I Don't Wanna Work' is reused from {{< wiki-link "April 2002 Show" >}}, 'Monkey Ninjas - Episode 5' is reused from {{< wiki-link "January 2004 Show" >}}, 'First Impression' is reused from {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}, 'I Want My Chuck E. Cheese' is reused from {{< wiki-link "September 2004" >}}, 'Imagine Nation' is reused from {{< wiki-link "April 2010 Show" >}}, 'The Weekend' is reused from {{< wiki-link "May 2011 Show" >}}

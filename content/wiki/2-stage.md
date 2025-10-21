@@ -7,12 +7,12 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","ShowBizMidwest","129.222.82.23","EagleScout610","Rexburg090","The 64th Gamer","Jaxon11","Noahrbxt","BurgersNuggs445","216.125.34.66","2600:4040:5A0C:5900:C45C:F043:3504:84FE","ThatBoiCydalan","CorrectorMan","Agent 5","Cheeseclassic","Chez","Slussier1","Saan1ty","AstridMascotFan2005","Stripes","CEC1988","Caydenpedia","Destinationimagination95"]
+contributors = ["CECBowlingGreen","ShowBizMidwest","Anonymous","EagleScout610","Rexburg090","The 64th Gamer","Jaxon11","Noahrbxt","BurgersNuggs445","Anonymous","Anonymous","ThatBoiCydalan","CorrectorMan","Agent 5","Cheeseclassic","Chez","Slussier1","Saan1ty","AstridMascotFan2005","Stripes","CEC1988","Caydenpedia","Destinationimagination95"]
 citations = []
 pageThumbnailFile = "_aH_0Fo8Ab2Ijw4xjQ9Z.avif"
 +++
 
-The ***2-Stage*** is a stage format found at {{< wiki-link "Chuck E Cheese's" >}} locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage|Rocker Stage had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
+The ***2-Stage*** is a stage format found at {{< wiki-link "Chuck E. Cheese's" >}} locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage|Rocker Stage had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
 
 ## History
 

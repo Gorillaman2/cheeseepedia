@@ -5,7 +5,7 @@ tags = ["Animatronic Preservation"]
 categories = ["Chuck E. Cheese's", "Creative Engineering","ShowBiz Pizza Place","Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["Himitsu","The 64th Gamer","Nebbytales","Ls2018","2600:1700:F731:2980:B150:72D8:193D:BC72"]
+contributors = ["Himitsu","The 64th Gamer","Nebbytales","Ls2018","Anonymous"]
 citations = []
 +++
 This page details some rough guidelines to follow when preserving data of various types.
@@ -81,7 +81,7 @@ Please clean all parts in the tape path before each recording. This includes the
 
 ### DVD
 
-Correctly preserving DVDs can be done in multiple ways, and the available options depend on the type of disc. DVDs without copy protection (such as Chuck E Cheese showtapes) can simply be ripped to an ISO and this is the preferred method. DVDs with copy protection need special handling - TODO.
+Correctly preserving DVDs can be done in multiple ways, and the available options depend on the type of disc. DVDs without copy protection (such as Chuck E. Cheese showtapes) can simply be ripped to an ISO and this is the preferred method. DVDs with copy protection need special handling - TODO.
 
 ### VHS, Beta, SVHS
 

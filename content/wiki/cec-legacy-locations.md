@@ -4,7 +4,7 @@ title = "CEC Legacy Locations"
 startDate = "2023-07-25"
 endDate = ""
 pageThumbnailFile = "tL4JFKT5JXRhd4K9iP6Q.avif"
-contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "2600:387:1:813:0:0:0:75", "Ceclife13", "ChuckfeldStan", "47.223.117.89", "168.69.254.249", "CEC Tinley", "174.175.47.16", "BurgersNuggs445", "70.161.136.174", "2600:4040:5A0E:D900:5543:D34F:53F5:C134", "ConceptUnification2.0", "SuperCreamPiper2008", "Documentor", "PizzaEntertainmentFanX", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
+contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "Anonymous", "Ceclife13", "ChuckfeldStan", "Anonymous", "Anonymous", "CEC Tinley", "Anonymous", "BurgersNuggs445", "Anonymous", "Anonymous", "ConceptUnification2.0", "SuperCreamPiper2008", "CyberSnout", "PizzaEntertainmentFanX", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
 citations = ["(Content Missing)", "(Content Missing)", "https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/", "https://www.linkedin.com/feed/update/urn:li:ugcPost:7288158894101540865?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7290111496393502721%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7294008473904680960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287290111496393502721%2Curn%3Ali%3AugcPost%3A7288158894101540865%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287294008473904680960%2Curn%3Ali%3AugcPost%3A7288158894101540865%29", "https://cheeseepedia.org/photos/890u298fj23f.avif", "https://cheeseepedia.org/photos/9832u49823j4t.avif"]
 tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]
@@ -27,7 +27,7 @@ At an unknown time prior to mid-2022, CEC Corporate began discussions of a possi
 
 ### Store Acquisitions
 
-Around the time of these discussions, certain stores that were closing or going through a remodel were selected to have their items sent to the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} or {{< wiki-link "Chuck E Cheese's Corporate Office" >}} for possible use.
+Around the time of these discussions, certain stores that were closing or going through a remodel were selected to have their items sent to the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} or {{< wiki-link "Chuck E. Cheese's Corporate Office" >}} for possible use.
 
 - Slidell, LA (124 North Shore Blvd)
   - October 22, 2020 - Art taken during closure.
@@ -65,13 +65,13 @@ Around the time of these discussions, certain stores that were closing or going 
 
 ### Legacy Location Concept
 
-At some point in the discussions of the museum concept however, it was pointed out that a museum would not keep customer retention for long compared to CEC's usual restaurant and party experiences.<sup>(0)</sup> The priorities then shifted to instead turning select stores back into previous remodels, mainly focused around the 1992 Major Remodel. This would reduce costs of creating brand new attractions, while still keeping the retro branded stores within usual restaurant systems and procedures. By mid-2022 however, the idea would be put on hold while the {{< wiki-link "CEC 2.0 Remodel Program" >}} was still siphoning time and resources.<sup>(0)</sup>
+At some point in the discussions of the museum concept however, it was pointed out that a museum would not keep customer retention for long compared to CEC's usual restaurant and party experiences.{{< cite 1 >}} The priorities then shifted to instead turning select stores back into previous remodels, mainly focused around the 1992 Major Remodel. This would reduce costs of creating brand new attractions, while still keeping the retro branded stores within usual restaurant systems and procedures. By mid-2022 however, the idea would be put on hold while the {{< wiki-link "CEC 2.0 Remodel Program" >}} was still siphoning time and resources.{{< cite 1 >}}
 
 ### Northridge Chosen
 
 On July 25, 2023, {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} would begin to go through a remodel. After around a week of normal proceedings, it had been noted that the store's SPT Parody Awards were wrapped up behind a set of arcade machines, and its stage had not been dismantled despite the current progression of the remodel. Rumors would begin circulating that the store had suddenly gone through with a change of plans and would be keeping its animatronic show.
 The {{< wiki-link "CEC 2.0 Remodel Program" >}} would continue to go through, installing the video wall and dance floor, however, the 2-Stage in the store would be kept. Many of the 1992 Major Remodel parts of the store were taken down, such as the entrance awning and checkered tiles, while the showroom shelves remained. The store's exterior sign would retain the same shape, but with the new 2.0 logo. The residency would be celebrated with the {{< wiki-link "2023 Northridge Grand Reopening Party" >}} on November 10, 2023. Fan response to the move had been mixed, with many lamenting the imminent loss of all other remaining stages across the country; this decision came with the confirmation that all other stores hosting animatronics were set for removal of the stages.https://www.linkedin.com/posts/chuck-e-cheese_creativity-innovation-entertainment-activity-7125896598227693568-wGbM?utm_source=share&utm_medium=member_desktop
-CEC Corporate would denote this location as important because it was 'long been visited by our fans' and 'in celebration of the location's 40th anniversary', despite the location's 40th anniversary actually having taken place 2 years prior in September of 2021.<sup>(1)</sup> CEC would directly confirm that once all 2017 2.0 Remodel Program|CEC 2.0 Remodel Programs were completed across all locations, Northridge would be the only store left with animatronics.<sup>(1)</sup> They would also note the location to be permanent showcase for 'all legacy Chuck E. Cheese nostalgia'.<sup>(1)</sup> CEC would deflect all comments begging for their local stores to keep their animatronics with stating that Northridge was 'the perfect location to keep the animatronic fun going strong'.<sup>(2)</sup>
+CEC Corporate would denote this location as important because it was 'long been visited by our fans' and 'in celebration of the location's 40th anniversary', despite the location's 40th anniversary actually having taken place 2 years prior in September of 2021.{{< cite 1 >}} CEC would directly confirm that once all 2017 2.0 Remodel Program|CEC 2.0 Remodel Programs were completed across all locations, Northridge would be the only store left with animatronics.{{< cite 1 >}} They would also note the location to be permanent showcase for 'all legacy Chuck E. Cheese nostalgia'.{{< cite 1 >}} CEC would deflect all comments begging for their local stores to keep their animatronics with stating that Northridge was 'the perfect location to keep the animatronic fun going strong'.{{< cite 2 >}}
 
 ### 2024 Future Planning Survey
 
@@ -103,7 +103,7 @@ These concepts also bleed into the section of the survey on the Chuck E. Fan Clu
 
 ### Springfield, Charlotte, & Hicksville Chosen
 
-Shortly after the decision to keep the Nanuet Studio C stage was released, CEC announced they would be keeping an additional three stages. These being the {{< wiki-link "Concept Unification 1-Stage" >}} at {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}, the 3-Stage at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}, and the {{< wiki-link "1-Stage" >}} at {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.<sup>(3)</sup>
+Shortly after the decision to keep the Nanuet Studio C stage was released, CEC announced they would be keeping an additional three stages. These being the {{< wiki-link "Concept Unification 1-Stage" >}} at {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}, the 3-Stage at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}, and the {{< wiki-link "1-Stage" >}} at {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.{{< cite 3 >}}
 
 ### Ontario Chosen
 

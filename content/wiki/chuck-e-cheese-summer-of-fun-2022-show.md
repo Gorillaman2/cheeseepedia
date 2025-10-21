@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-06-06"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer","Bowling for Cheese","Dame868"]
+contributors = ["CyberSnout","The 64th Gamer","Bowling for Cheese","Dame868"]
 citations = []
 pageThumbnailFile = "h6Tb1qaWcrAG0AfBr4Vm.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","3-Stage Networking Module Files"]
@@ -80,6 +80,6 @@ This was created with conjunction with the Summer of Fun promotion. Runs from Ju
 
 ## Trivia:
 
-- 'Song of Summer', 'Dog Days of Summer', and 'Let's Be Friends' are originally from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}}. With 'Out of this World' originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- 'Song of Summer', 'Dog Days of Summer', and 'Let's Be Friends' are originally from {{< wiki-link "Chuck E. Cheese's Show 3 2021" >}}. With 'Out of this World' originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - Munch Jr is programmed for the ending of 'Join the Party' and 'Down the Road'
 - Audio Calibration is again on the existing stage menu. Still unknown as to why.

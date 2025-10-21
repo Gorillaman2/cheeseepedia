@@ -5,14 +5,13 @@ endDate = "2024-11-03"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 contributors = ["Luigigamin212"]
 citations = ["TBD"]
-showtapeFormats = ["Studio C 3x DVD +Floppy", "Studio C USB + MicroSD", "Studio C DVD 3x + Floppy", "Studio C Networking Module Files", "Cyberamic Networking Module Files", "3 Stage Networking Module Files"]
+showtapeFormats = ["Media Navori", "Cyberamic Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Halloween Boo-Tacular 2024 Show** was the fall show released on September 30, 2024. This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from September 30, 2024, through November 3, 2024. This would play from opening - 6 pm, when it would switch over to ‘DJ Munch's Haunted House Party Show’
 
 ## Show List 10/24 Update: 
-
 1. **Skit 1**
       1. Chuck E. Cheese - ‘Halloween Night’
 2. **Intermission 1**
@@ -43,11 +42,11 @@ categories = ["Chuck E. Cheese's"]
 11. **Intermission 6**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 12. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 13. **Intermission 7**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 14. **Skit 7**
@@ -62,12 +61,14 @@ categories = ["Chuck E. Cheese's"]
       1. Chuck E. & Friends - ‘Pumpkins In My Pockets’
 
 ## Lives 10/24 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori) 
-      3. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+5. Chuck E.’s Haunted House Party (Media Navori, Cyberamic Navori)
+
 
 ## Show List 10/22 Update: 
-
 1. **Skit 1**
       1. Chuck E. Cheese - ‘Halloween Night’
 2. **Intermission 1**
@@ -99,11 +100,11 @@ categories = ["Chuck E. Cheese's"]
 11. **Intermission 6**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 12. **Skit 7**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 13. **Intermission 7**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 14. **Skit 8**
@@ -118,13 +119,14 @@ categories = ["Chuck E. Cheese's"]
       1. Chuck E. & Friends - ‘Pumpkins In My Pockets’
 
 ## Lives 10/22 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori) 
-      3. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+5. Chuck E.’s Haunted House Party (Media Navori, Cyberamic Navori)
 
 
 ## Show List 10/14 Update: 
-
 1. **Skit 1**
       1. Chuck E. Cheese - ‘Halloween Night’
 2. **Intermission 1**
@@ -153,11 +155,11 @@ categories = ["Chuck E. Cheese's"]
 10. **Intermission 5**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 11. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 12. **Intermission 6**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 13. **Skit 7**
@@ -172,12 +174,14 @@ categories = ["Chuck E. Cheese's"]
       2. Chuck E. & Friends - ‘Pumpkins In My Pockets’
 
 ## Lives 10/14 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori) 
-      3. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+5. Chuck E.’s Haunted House Party (Media Navori, Cyberamic Navori)
+
 
 ## Show List: 
-
 1. **Skit 1**
       1. Chuck E. Cheese - ‘Halloween Night’
 2. **Intermission 1**
@@ -206,11 +210,11 @@ categories = ["Chuck E. Cheese's"]
 10. **Intermission 5**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 11. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 12. **Intermission 6**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 13. **Skit 7**
@@ -222,11 +226,13 @@ categories = ["Chuck E. Cheese's"]
       2. Chuck E. & Friends - ‘Pumpkins In My Pockets’
 
 ## Lives: 
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori) 
-      3. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori) 
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E.’s Bootastic Dance (Media Navori, Cyberamic Navori)
+5. Chuck E.’s Haunted House Party (Media Navori, Cyberamic Navori)
 
 ## Trivia: 
-10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
-10/22 Update: Blippi - ‘Halloween Countdown’ is added
-10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024
+1. 10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
+2. 10/22 Update: Blippi - ‘Halloween Countdown’ is added
+3. 10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024

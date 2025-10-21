@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2019-11-04"
 endDate = "2019-12-29"
-contributors = ["Documentor","Mousester"]
+contributors = ["CyberSnout","Mousester"]
 citations = []
 pageThumbnailFile = "EPKN0v7J8306O_315Dwv.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -84,4 +84,4 @@ The show was intended to play from November 4, 2019 - December 29, 2019. It feat
 
 ## Trivia:
 
-- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}.
+- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E. Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}.

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-08-29"
 endDate = "0000-00-00"
-contributors = ["Documentor","Bowling for Cheese","The 64th Gamer","CEC Denver","Cy's Junk at School"]
+contributors = ["CyberSnout","Bowling for Cheese","The 64th Gamer","CEC Denver","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "3YAGKHE0am2F7EXE_MQf.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -76,4 +76,4 @@ This was created with the idea to play between promotional events. Runs from Aug
 
 ## Trivia
 
-- This is the last Evergreen show to include programming signals for Studio C-based systems. Starting with {{< wiki-link "Chuck E Cheese Evergreen Show 2023" >}}, all programming signals for these systems would be stripped and would only include curtain open/close signals and random movements.
+- This is the last Evergreen show to include programming signals for Studio C-based systems. Starting with {{< wiki-link "Chuck E. Cheese Evergreen Show 2023" >}}, all programming signals for these systems would be stripped and would only include curtain open/close signals and random movements.

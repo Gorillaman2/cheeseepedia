@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2018-06-26"
 endDate = "2018-7-29"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "5wZhhjXpCsqPFrr7HGko.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -61,5 +61,5 @@ This was created to play from June 26, 2018 - July 29, 2018. Featuring 4 reused 
 
 ## Trivia:
 
-- 'Giant Armadillo Named, Phil' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2015" >}}, 'It's The 70s' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2017" >}}, 'Your Birthdays Are Special' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}}, and 'Out of This World' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- 'Giant Armadillo Named, Phil' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2015" >}}, 'It's The 70s' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}, 'Your Birthdays Are Special' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}, and 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - The Show Break intermissions return after last being seen in Chuck E. Cheese's Winter 2015|Winter 2015. All the Show Breaks are reused from 2013-2014.

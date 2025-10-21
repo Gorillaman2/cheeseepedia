@@ -4,7 +4,7 @@ title = "Blast From The Past"
 startDate = "1998-01-00"
 endDate = "1998-00-00"
 pageThumbnailFile = "hAczHtQW0ncEFSA6bENH.avif"
-contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "2600:1009:B173:9FF8:285C:6515:8181:3706", "2601:2C6:4B7F:1C80:D1A6:9AE7:CEEE:9F76"]
+contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "Anonymous", "Anonymous"]
 citations = ["https://www.youtube.com/watch?v=NnOlH7oRHZs"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
@@ -66,6 +66,6 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/Janua
 
 ## Trivia:
 
-- 'Mountain Music' and 'BINGO' are reused from {{< wiki-link "January 1993 Show" >}}. 'I Feel Good' is reused from {{< wiki-link "July 1993 Show" >}}. 'Wooly Bully' is from {{< wiki-link "You're A Star" >}}. 'Route 66' is reused from {{< wiki-link "Let The Good Times Roll" >}}. 'The Ballgame', 'Spring Cleaning' and 'Munch and The Picnic Basket' are reused from {{< wiki-link "Spring Break" >}}. 'Hound Dog', 'The Virtuoso', 'Chuck E.'s Big Bowling Date' and 'Charlie Rockit' are reused from {{< wiki-link "September '94" >}}. 'Turn The Beat Around' is reused from Awesome Adventure Machine (Show) | July 1996. 'Skytubes' and CEC TV News are reused from Chuck E Cheese's 20th Anniversary | April 1997.
+- 'Mountain Music' and 'BINGO' are reused from {{< wiki-link "January 1993 Show" >}}. 'I Feel Good' is reused from {{< wiki-link "July 1993 Show" >}}. 'Wooly Bully' is from {{< wiki-link "You're A Star" >}}. 'Route 66' is reused from {{< wiki-link "Let The Good Times Roll" >}}. 'The Ballgame', 'Spring Cleaning' and 'Munch and The Picnic Basket' are reused from {{< wiki-link "Spring Break" >}}. 'Hound Dog', 'The Virtuoso', 'Chuck E.'s Big Bowling Date' and 'Charlie Rockit' are reused from {{< wiki-link "September '94" >}}. 'Turn The Beat Around' is reused from Awesome Adventure Machine (Show) | July 1996. 'Skytubes' and CEC TV News are reused from Chuck E. Cheese's 20th Anniversary | April 1997.
 - 'Name That Cheese', 'Pondwatch', 'Will Frye The Nutrition Guy', CEC TV News - 'Particle Travel', 'Larry The Technician', 'Director's Cut', 'CEC Promo', 'The Announcer', and both Coke spots are reused from Studio C Premiere (Final Ver) | Studio C Premiere. While they appeared first in that show, this was the first time they appeared for Existing Stages.
 - Fun at CEC reuses the music from Chuck E.'s Zoo View in {{< wiki-link "Let The Good Times Roll" >}}. The VJ spots reuse music from the same show's Trivia intermissions.

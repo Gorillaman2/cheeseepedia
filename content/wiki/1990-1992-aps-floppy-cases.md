@@ -5,7 +5,7 @@ tags = ["History"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Himitsu","en>Unknown user"]
+contributors = ["The 64th Gamer","Himitsu","Anonymous"]
 citations = []
 +++
 The ***1990-1992 APS Floppy Cases* is a collection of 5 floppy disk cases containing floppy discs with {{< wiki-link "Animation Programming System" >}} showtapes on them**
@@ -23,7 +23,7 @@ The shows on the discs are from October 10, 1990 to August 20, 1992, covering fu
 - {{< wiki-link "CEC September 1990 Show" >}} (October)
 - {{< wiki-link "CEC Christmas '90 Wave Bday" >}} (November 9)
 - {{< wiki-link "CEC Jan '91" >}} (December 10)
-- {{< wiki-link "Chuck E Cheese's Live 90" >}} (December 31)
+- {{< wiki-link "Chuck E. Cheese's Live 90" >}} (December 31)
 - {{< wiki-link "Beach Bowzers '91 I" >}} (March 11)
 - {{< wiki-link "CEC Future" >}} (March 14)
 - Concept Unification Diagnostics Tape 1 (March 14)

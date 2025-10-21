@@ -1,0 +1,33 @@
+name: Post commit info to Discourse Chat
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify-discourse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Gather commit details
+        id: format
+        run: |
+          SHA=$(git rev-parse HEAD)
+          TITLE=$(git log -1 --pretty=format:"%s")
+          AUTHOR=$(git log -1 --pretty=format:"%an")
+          FILES=$(git diff-tree --no-commit-id --name-only -r HEAD | head -10 | sed 's/^/`/;s/$/`/' | paste -sd ", " -)
+          MSG="🧀**New Commit!**\n${TITLE}\nChanged: ${FILES}\nAuthor: ${AUTHOR}"
+          echo "message=$MSG" >> $GITHUB_OUTPUT
+
+
+      - name: Send to Discourse Chat
+        env:
+          DISCOURSE_WEBHOOK_URL: ${{ secrets.DISCOURSE_WEBHOOK_URL }}
+        run: |
+          curl -s -X POST \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": \"${{ steps.format.outputs.message }}\"}" \
+            "$DISCOURSE_WEBHOOK_URL"

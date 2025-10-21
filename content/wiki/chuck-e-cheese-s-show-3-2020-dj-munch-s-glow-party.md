@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2020-09-21"
 endDate = "2020-11-02"
-contributors = ["The 64th Gamer","Documentor","Himitsu","Dame868","Ceclife13","2600:1012:B055:502A:DC28:BBDB:8B16:7D","CyCGM"]
+contributors = ["The 64th Gamer","CyberSnout","Himitsu","Dame868","Ceclife13","Anonymous","CyCGM"]
 citations = []
 pageThumbnailFile = "o1qnkD7oorIrXCp0DH2X.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -98,6 +98,6 @@ This was created to play during 'Mr. Munch's Glow Party' Promotion from Septembe
 
 ## Trivia:
 
-- 'Be Yourself' is originally from {{< wiki-link "Chuck E Cheese's Show 4 2019" >}} and I Didn't Need to be Afraid is originally from {{< wiki-link "Chuck E Cheese's Show 6 2018" >}}.
+- 'Be Yourself' is originally from {{< wiki-link "Chuck E. Cheese's Show 4 2019" >}} and I Didn't Need to be Afraid is originally from {{< wiki-link "Chuck E. Cheese's Show 6 2018" >}}.
 - Most stores were not using the Chuck E. walkaround due to precautions against COVID-19. As a compromise, 'Boo-Tastic Dance' was the first live show to have Chuck E. programmed for the animatronic stage shows.
 - This was the first showtape released after Chuck E. Cheese declared bankruptcy for the second time.

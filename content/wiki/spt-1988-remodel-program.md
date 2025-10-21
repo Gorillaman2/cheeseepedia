@@ -5,7 +5,7 @@ tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 startDate = "1988-00-00"
 endDate = "1991-00-00"
-contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","Documentor","Caydenpedia"]
+contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","CyberSnout","Caydenpedia"]
 citations = ["https://www.youtube.com/watch?v=OhSHOh9Q8tQ"]
 pageThumbnailFile = "Ii6KC1HF2jOO09IhY6EX.avif"
 +++
@@ -27,5 +27,5 @@ ShowBiz Pizza Place and Pizza Time Theatre locations would have received a retro
 
 #### Interior
 
-All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.<sup>(1)</sup>
+All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.{{< cite 1 >}}
 The service areas of locations would have their accompanying neon sign above, most of the time is accompanied by a blue and white striped canopy behind it.

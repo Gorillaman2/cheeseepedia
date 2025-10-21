@@ -5,13 +5,13 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","SonicFazbear","129.222.82.23","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","2600:6C44:97F:D312:E0C5:6036:5291:CEE2","CEC Tinley","70.161.136.174","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
+contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</a>"]
 pageThumbnailFile = "Q7GgvHrRn5opv9sobAJC.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
 +++
 
-The ***Chuck E. Cheese {{< wiki-link "Cyberamics" >}}*** were a set of Cyberamics produced by {{< wiki-link "Pizza Time Theatre" >}} as an animatronic version of {{< wiki-link "Chuck E Cheese" >}} from 1979 to 1983 as a replacement for the Fantasy Forest bots. The bots would be later produced by Kinetix Group Inc from 1991-1993 and Animation World from 1993-1997. The bots are very simple, having only 8 movements. The bots were originally controlled using the {{< wiki-link "Cyberamic Control System" >}}, but were later changed to the Cyberstar system &amp; {{< wiki-link "Navori System" >}}.
+The ***Chuck E. Cheese {{< wiki-link "Cyberamics" >}}*** were a set of Cyberamics produced by {{< wiki-link "Pizza Time Theatre" >}} as an animatronic version of {{< wiki-link "Chuck E. Cheese" >}} from 1979 to 1983 as a replacement for the Fantasy Forest bots. The bots would be later produced by Kinetix Group Inc from 1991-1993 and Animation World from 1993-1997. The bots are very simple, having only 8 movements. The bots were originally controlled using the {{< wiki-link "Cyberamic Control System" >}}, but were later changed to the Cyberstar system &amp; {{< wiki-link "Navori System" >}}.
 
 ## History
 

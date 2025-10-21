@@ -4,7 +4,7 @@ title = "SPP Concept Unification Premiere"
 startDate = "1990-06-21"
 endDate = "1993-00-00"
 pageThumbnailFile = "mNmEAO7N96wrYGZAMVKY.avif"
-contributors = ["The 64th Gamer", "BurgersNuggs445", "DerekCat", "71.15.155.152", "71.244.213.235", "CECCheese", "CEC Tinley", "Saan1ty", "SuperCreamPiper2008", "Ceclife13"]
+contributors = ["The 64th Gamer", "BurgersNuggs445", "DerekCat", "Anonymous", "Anonymous", "CECCheese", "CEC Tinley", "Saan1ty", "SuperCreamPiper2008", "Ceclife13"]
 citations = ["https://youtu.be/Y3RwnSxGcnE?feature=shared"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Chuck E. Cheese & Mr. Munch Voice Actor", "Nancy Lenihan|Helen Henny Voice Actress", "Bob West|Pasqually & Jasper T. Jowls Voice Actor", "Audio Production|Sundance Productions"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)"]
@@ -30,7 +30,7 @@ The only 'On Location' footage featured is the {{< wiki-link "Irving, TX (3903 W
 
 ### Recycled Video Intermissions
 
-This showtape included video segments from other ShowBiz Pizza Place & Chuck E Cheese's showtapes.
+This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams

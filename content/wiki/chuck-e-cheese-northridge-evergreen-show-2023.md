@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-11-11"
 endDate = "0000-00-00"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
 showtapeFormats = ["Cyberamics Networking Module Files"]
@@ -55,5 +55,5 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ## Trivia:
 
-'It's the 70s' & 'Every Boy, Every Girl' are both originally from {{< wiki-link "Chuck E Cheese's Show 5 2017" >}}.
+'It's the 70s' & 'Every Boy, Every Girl' are both originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}.
 Despite being the main attraction of Northridge the animatronics only preform two songs per show rotation.

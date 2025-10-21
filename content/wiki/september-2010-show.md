@@ -4,7 +4,7 @@ title = "September 2010 Show"
 startDate = "2010-09-01"
 endDate = "2010-11-30"
 pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
-contributors = ["The 64th Gamer", "Documentor", "Mousester", "2603:8001:D300:5785:1965:4148:BDA3:E573"]
+contributors = ["The 64th Gamer", "CyberSnout", "Mousester", "Anonymous"]
 citations = ["Showtape Stock Music"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
@@ -119,4 +119,4 @@ This show featured eight songs from various shows released throughout the 2000s.
 * 'No Other Place' is from the {{< wiki-link "September 2000 Show" >}}, 'Three Little Investors' and 'Think Happy' are from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, 'Dinner' is from January 2002, 'Roll The Pizza Dough' is from the {{< wiki-link "September 2002 Show" >}}, 'Our Mouse' is from the {{< wiki-link "September 2003 Show" >}}, 'Mailman' is from {{< wiki-link "January 2005 Show" >}}, and 'Little Bit Of 80's' is originally from the {{< wiki-link "January 2009 Show" >}}.
 * In the Studio C version of the show all of the reused segments have been edited to only utilize one video feed, with puppets now only appearing during dialogue.
 * The original description of the now privated 'Little Bit Of 80's' video on the ChuckECheeseTV YouTube channel in 2011 read, 'From Chuck E. Cheese's September 2010 Show, this is 'Little Bit Of 80s.' The Matt Daniel cut.'; the cut in question replaces the original footage from 2009 with retro 80s footage and reused footage from the {{< wiki-link "January 2008 Show" >}} and the {{< wiki-link "September 2009 Show" >}}.
-* The song used during the '1 Minute 'Til Next Show Countdown' was originally used in {{< wiki-link "Chuck E Cheese's 20th Anniversary (AAM)" >}}. The track is titled 'Future Tech'.<sup>(1)</sup>
+* The song used during the '1 Minute 'Til Next Show Countdown' was originally used in {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}}. The track is titled 'Future Tech'.{{< cite 1 >}}

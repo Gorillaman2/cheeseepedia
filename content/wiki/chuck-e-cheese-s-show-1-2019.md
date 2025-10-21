@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2018-12-31"
 endDate = "2019-3-31"
-contributors = ["The 64th Gamer","Documentor","Mousester"]
+contributors = ["The 64th Gamer","CyberSnout","Mousester"]
 citations = []
 pageThumbnailFile = "pSlhDn66l9ngOI45bNbq.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -68,6 +68,6 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Trivia:
 
-- 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' is originally from {{< wiki-link "Chuck E Cheese's Show 1 2018" >}}, and 'Lend a Helping Hand' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2018" >}}.
+- 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}, and 'Lend a Helping Hand' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2018" >}}.
 - The filming for 'All I Want for Christmas is Snow' and 'Holiday Traditions' happened at the same time that 'The Tail of Jasper T.' was filmed. This is why 'The Tail of Jasper T.' uses the same band and town set.
 - Despite releasing on December 31, 2018, the show did not actually start playing until January 4, 2019 due to shipping delays.

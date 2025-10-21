@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2018-10-01"
 endDate = "2018-11-04"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "l8gAMQ23TqFae4Bb6Iy0.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -75,5 +75,5 @@ This was created to play from October 1, 2018 - November 4, 2018. Featuring 4 so
 
 ## Trivia:
 
-- 'Trick or Treat' and 'Costume Party' are originally from {{< wiki-link "Chuck E Cheese's Show 6 2015" >}}.
+- 'Trick or Treat' and 'Costume Party' are originally from {{< wiki-link "Chuck E. Cheese's Show 6 2015" >}}.
 - This is the final time 'Trick or Treat' and 'Costume Party' would be used and despite that they were never reprogrammed from the original 2015 programming.

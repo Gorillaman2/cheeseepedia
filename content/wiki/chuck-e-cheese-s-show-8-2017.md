@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2017-11-20"
 endDate = "2018-1-03"
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 pageThumbnailFile = "Brn9LU7rP5F62FFVUqN6.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -79,4 +79,4 @@ This was created to play from November 20, 2017 - January 3, 2018. Featuring 7 s
 
 ## Trivia:
 
-Happy Birthday, Pasqually, Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}, Snowman and What Do You Get a Sasquatch for Christmas? are originally from {{< wiki-link "Holiday 2014 Show" >}}.
+Happy Birthday, Pasqually, Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}, Snowman and What Do You Get a Sasquatch for Christmas? are originally from {{< wiki-link "Holiday 2014 Show" >}}.

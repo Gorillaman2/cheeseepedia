@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1998-09-00"
 endDate = "1998-12-00"
-contributors = ["Documentor","Cy's Junk at School"]
+contributors = ["CyberSnout","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "TndnNM07cXDXau80frxy.avif"
 showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
@@ -16,7 +16,7 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/Septe
 ## Existing Show List:
 
 1.  **Skit 1**
-    1.  Chuck E Cheese - International Mouse Of Mystery
+    1.  Chuck E. Cheese - International Mouse Of Mystery
     2.  Introduction to Elvis Presley - 'Jailhouse Rock'
 2.  **Intermission 1**
     1.  Elvis Presley - 'Jailhouse Rock'

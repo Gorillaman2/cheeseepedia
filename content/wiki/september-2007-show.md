@@ -4,7 +4,7 @@ title = "September 2007 Show"
 startDate = "2007-09-00"
 endDate = "2007-11-00"
 pageThumbnailFile = "douicwogo05dicflh57u.avif"
-contributors = ["The 64th Gamer", "Documentor", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "Dame", "Ceclife13"]
+contributors = ["The 64th Gamer", "CyberSnout", "Anonymous", "Dame", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202007%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
@@ -81,4 +81,4 @@ The **September 2007 Show** was a showtape released in 2007 to celebrate the 30t
 
 - This show is the first to feature the finalized version of Birthday Star Extravaganza 2007, though it only appears on Studio C DVDs and it is unknown if it was playable.
 - Larry The Technician is reused from {{< wiki-link "Studio C Premiere" >}}, Singing Cowboy is reused from {{< wiki-link "April 1999" >}}, Eddie Coker - 'The Dog' is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, VeggieTales - 'Sports Utility Vehicle (SUV) is reused from {{< wiki-link "CEC TV April 2005 Show" >}}, and CEC TV Artist Spotlight is reused from {{< wiki-link "September 2006 Show" >}}.
-- "Every Boy, Every Girl' is a remake of a song from {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}}, with some lyrics being changed to reflect the 30th anniversary.
+- "Every Boy, Every Girl' is a remake of a song from {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}}, with some lyrics being changed to reflect the 30th anniversary.

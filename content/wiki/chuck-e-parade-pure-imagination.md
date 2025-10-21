@@ -5,12 +5,12 @@ tags = ["Live Shows"]
 categories = [""]
 startDate = "1990-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = []
 mediaDuration = "9:00"
 +++
 ***Chuck E. Parade* is an unreleased live show originally meant to be paired with {{< wiki-link "SPP Concept Unification Premiere" >}} .
-This live show was never programmed and ShowBiz Pizza Time decided to create and use {{< wiki-link "Chuck E Cheese's Live 90" >}} instead.**
+This live show was never programmed and ShowBiz Pizza Time decided to create and use {{< wiki-link "Chuck E. Cheese's Live 90" >}} instead.**
 
 ## Summary
 
