@@ -1,0 +1,52 @@
+{{/* Fetch and parse Discourse News topics safely */}}
+
+{{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
+{{ $data := dict }}
+
+{{ with resources.GetRemote $url }}
+  {{ $data = . | transform.Unmarshal }}
+{{ else }}
+  {{ warnf "Could not fetch Discourse JSON from %s" $url }}
+{{ end }}
+
+{{ with $data.topic_list.topics }}
+  {{ range first 3 . }}
+    {{ $topic := . }}
+    {{ $id := int $topic.id }}
+    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $id }}
+
+    {{/* Handle image URL safely */}}
+    {{ $img := "" }}
+    {{ with $topic.image_url }}
+      {{ if strings.HasPrefix . "http" }}
+        {{ $img = . }}
+      {{ else }}
+        {{ $img = printf "https://forum.cheeseepedia.org%s" . }}
+      {{ end }}
+    {{ else }}
+      {{ $img = "images/news-fallback.jpg" | relURL }}
+    {{ end }}
+
+    {{/* Match your list-page block structure */}}
+    <div class="list-page-block">
+      <div class="list-page-container">
+        <div class="list-image">
+          <a href="{{ $topicURL }}">
+            <img src="{{ $img }}" alt="{{ $topic.title }}">
+          </a>
+        </div>
+        <div class="list-page-content">
+          <a href="{{ $topicURL }}">
+            {{ $topic.title | safeHTML }}
+          </a>
+          <div class="list-page-date">
+            {{ (time $topic.created_at).Format "Jan 2, 2006" }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ else }}
+  <p>No recent news found.</p>
+{{ end }}
+<a href="https://forum.cheeseepedia.org/c/news/">read more...</a> 
