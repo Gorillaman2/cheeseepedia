@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -38,6 +38,13 @@ While it is believed that most, if not all of the first {{< wiki-link "Pizza Tim
 - Marriages
 
 None of the audio for these is present on those CDs. Most likely the track 'Birthday One, Honey Bun', which was seen partially in the 1979 Winchester footage, is the birthday track, though not fully confirmed.{{< cite 7 >}} This version is also only sort of complete. The full skit was rereleased with Mr. Munch dubbed over Crusty later on, and most of the Crusty segments are heard in the video outside of the final song at the end. {{< cite 8 >}} What makes it unclear if the birthday was used for the opening in 1977 is that another birthday song was found for the Madame Oink showtape in 1978, showing new birthdays were already being recorded. {{< cite 9 >}}
+
+### Second Set of Warblettes, or V2 Warblettes
+On January 8th, 1978, a newspaper would write about {{< wiki-link "Fantasy Forest" >}} and its building at {{< wiki-link "Victorville, CA (15367 Tamarack Unit B)" >}}. There pictures would show them working on {{< wiki-link "Winchester Madam Oink (Animatronic)" >}}, set to debut the next month, {{< wiki-link "Kooser Dolli Dimples (Animatronic)" >}}, set for the Kooser location in Winter of that year, and the newer wide-mouthed walkaround heads.
+
+Specifically mentioned and shown were a second set of Warblettes, unfinished. The molds look similar, and almost exact in beak shape, to ones found already at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. Notably however is the only pictures of the Warblettes prior to this image, taken likely around or on opening day, have them obscured and not entirely visible. Proper shots of the Warblettes come later in 1979. It is possible the Warblettes were recieving a V2 animatronic, just as Chuck and Crusty recieved updates in June of that year. It is known the display the Warblettes sat in had to be redone after the opening of the store in May 1977 due to a malfunction as well.
+
+If the Warblettes were never updated and the V1 Warblettes aren't lost media, these would likely be made for the Kooser Road location before being scrapped and replaced with the {{< wiki-link "Kooser Mopsey Sisters (Animatronic)" >}} before opening. In which case it is unclear why they were scrapped, and where they ended up.
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
@@ -113,6 +120,15 @@ Pasqually's document is completely missing, making it unclear when he was instal
 
 {{< wiki-link "SPP Faith / Dreams / Kids" >}}, a showtape released in August of 1989, was found in a home video to have a lost clip inserted into its first intermission segment, just before the countdown. It says:
 
-> 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'
+> 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'{{< cite 11 >}}
 
-The home video doesn't point the camera at any TVs during the segment, keeping the video lost media. Any other promotional material or offers for Saturday breakfasts at ShowBiz are also lost if they exist.
+The home video doesn't point the camera at any TVs during the segment, keeping the video lost media. Recently a newspaper article about the breakfast program has been recovered, giving additional insight:{{< cite 12 >}}
+- The breakfast program was a test-market initiative limited to a few stores in 1988 and expanded to all Dallas-Fort Worth locations by 1989. Article takes place September 8th, 1989.
+- The store in the article was North Richland Hills, TX (7935 Grapevine Hwy)
+- Menu items include:
+    - Pancakes w/ bacon and a drink ($2.50)
+    - ‘Sunrise Sandwich’, a biscuit w/ eggs, sausage, and cheese, served with ‘alphabet-shaped french fries’ and a drink. ($2.25)
+    - French toast sticks ($2.50)
+    - Cinnamon Rolls ($???)
+- Drinks:
+    - Orange juice, apple juice, coffee, and milk.

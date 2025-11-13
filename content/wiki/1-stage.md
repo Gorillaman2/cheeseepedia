@@ -4,7 +4,7 @@ title = "1-Stage"
 startDate = "1992-03-24"
 endDate = ""
 pageThumbnailFile = "Irving_1_stage_full.avif"
-contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "CyberSnout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "Capitanyoda20"]
+contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "CyberSnout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "Capitanyoda20", "randomguyfan22"]
 citations = ["Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0"]
 manufacturer = "Corman & Associates"
 unitsProduced = "~70"
@@ -44,10 +44,10 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 
 ## Current 1-Stages
 
-| Location                                                             | Debuted           | Version | Condition / Notes                                                                                          |
-| -------------------------------------------------------------------- | ----------------- | ------- | ---------------------------------------------------------------------------------------------------------- |
-| {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | September 6, 1993 | 1-Stage | Decent condition. Last Non-Legacy 1-Stage.                                                                 |
-| {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | January 24, 1994  | 1-Stage | Perfect condition. Last Cyberamics in New York. One of seven animatronic stages saved for 'Legacy Stores'. |
+| Location                                                             | Debuted           | Version | Condition / Notes                                                                                        |
+| -------------------------------------------------------------------- | ----------------- | ------- | -------------------------------------------------------------------------------------------------------- |
+| {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | September 6, 1993 | 1-Stage | Decent condition. Last Non-Legacy 1-Stage and MMBB store                                                 |
+| {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | January 24, 1994  | 1-Stage | Perfect condition. Last Cyberamics in New York. One of six animatronic stages saved for 'Legacy Stores'. |
 
 ## Former 1-Stages
 
@@ -76,8 +76,8 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 | {{< wiki-link "Murrieta, CA (25110 Hancock Ave)" >}}               | November 01, 1993  | May 2023                                     | 1-Stage                      |
 | {{< wiki-link "Rohnert Park, CA (601 Rohnert Park Expressway)" >}} | December 06, 1993  | 2014                                         | 1-Stage                      |
 | {{< wiki-link "Poughkeepsie, NY (1895 South Rd)" >}}               | December 06, 1993  | September 2022                               | 1-Stage                      |
+| {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}           | December 13, 1993  | July 19, 2000                                | 1-Stage                      |
 | {{< wiki-link "North Bergen, NJ (8101 Tonelle Ave)" >}}            | December 20, 1993  | October 2022                                 | 1-Stage                      |
-| {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}           | 1993               | July 19, 2000                                | 1-Stage                      |
 | {{< wiki-link "Springfield, MO (3500-A S Glenstone Ave)" >}}       | January 10, 1994   | October 08, 2023                             | 1-Stage                      |
 | {{< wiki-link "El Paso, TX (710 Sunland Park Dr)" >}}              | February 21, 1994  | March 10, 2024                               | Mini Unit 1-Stage            |
 | {{< wiki-link "Dublin, CA (7448 Amador Valley Blvd)" >}}           | March 07, 1994     | October 06, 2024                             | Mini Unit 1-Stage            |
